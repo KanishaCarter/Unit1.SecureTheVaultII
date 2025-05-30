@@ -8,3 +8,5 @@ const code2 = 10 * 4;
 const code3 = 10 * 3 + 9;
 // combination code is logged to the console
 console.log(`${code1} - ${code2} - ${code3}`);
+// dialog box displays combination code
+alert(`${code1} - ${code2} - ${code3}`);
